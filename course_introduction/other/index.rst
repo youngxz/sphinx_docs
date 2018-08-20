@@ -3,14 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-JavaScript课程
+其他编程语言或者工具
 ==========================================
 
 .. toctree::
    :maxdepth: 2
 
-   what_is_js
-   why_js
-   javascript_L1
-   javascript_L2
-
+   app_inventor

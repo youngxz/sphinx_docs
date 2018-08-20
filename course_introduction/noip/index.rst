@@ -9,6 +9,7 @@ C++课程介绍
 .. toctree::
    :maxdepth: 2
 
+   what_is_noip
    why_cpp
    noip_L4
    noip_qa

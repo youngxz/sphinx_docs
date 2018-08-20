@@ -61,8 +61,3 @@ MIT的ScratchJr是Scratch编程语言中的一款专门为学前儿童开发的i
 
 ![scratchjr](../images/scratch/scratchjr.jpeg)
 
-### 类似于Scratch的编程语言
-
-#### Blockly 
-
-#### 编程猫

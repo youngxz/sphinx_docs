@@ -9,3 +9,6 @@ LeapLearner课程介绍
    javascript/index
    python/index
    noip/index
+   reference/index
+   reference_python/index
+   reference_noip/index

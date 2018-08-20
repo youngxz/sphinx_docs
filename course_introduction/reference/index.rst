@@ -3,13 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-C++课程介绍
+参考资料
 ==========================================
 
 .. toctree::
    :maxdepth: 2
 
-   why_cpp
-   noip_L4
-   noip_qa
-
+   csta

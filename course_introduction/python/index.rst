@@ -14,6 +14,3 @@ Python课程
    python_L1
    python_L2
    python_L3
-   ref_kebiao
-   ref_ncre
-   ref_zhejiang
